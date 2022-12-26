@@ -8,6 +8,8 @@ Before configuration
 ![image](https://user-images.githubusercontent.com/101791324/209535674-5c983d6d-d8bb-44b3-83f9-5bfbaaeff01d.png)
 
 After Configuration
-![image](https://user-images.githubusercontent.com/101791324/209533874-b8dfcace-0331-44df-b8c0-e8fa2dbe9f12.png)
+![image](https://user-images.githubusercontent.com/101791324/209535990-2c5ebf43-76b5-43df-a6a2-e5c08d396ac8.png)
 
-![image](https://user-images.githubusercontent.com/101791324/209533926-52be428c-4c78-4d61-9e75-8a6729585d9d.png)
+![image](https://user-images.githubusercontent.com/101791324/209535905-3ef96970-e2cb-4eaf-bb36-810106681c6b.png)
+
+
