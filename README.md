@@ -4,6 +4,10 @@
 
 ![WhatsApp Image 2022-12-26 at 10 42 41 AM](https://user-images.githubusercontent.com/101791324/209533777-72964bbf-a535-4c55-8c3f-7eca364a9522.jpeg)
 
+Before configuration
+![image](https://user-images.githubusercontent.com/101791324/209535674-5c983d6d-d8bb-44b3-83f9-5bfbaaeff01d.png)
+
+After Configuration
 ![image](https://user-images.githubusercontent.com/101791324/209533874-b8dfcace-0331-44df-b8c0-e8fa2dbe9f12.png)
 
 ![image](https://user-images.githubusercontent.com/101791324/209533926-52be428c-4c78-4d61-9e75-8a6729585d9d.png)
